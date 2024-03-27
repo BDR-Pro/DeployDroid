@@ -71,7 +71,7 @@ Before we dive in, make sure you've got the following ready:
 First things first, grab the code:
 
     ```bash
-    git clone https://github.com/yourusername/DeployDroid.git
+    git clone https://github.com/bdr-pro/DeployDroid.git
     cd DeployDroid
     ```
 
