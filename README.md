@@ -149,4 +149,13 @@ Ready to dive in and code? Follow these steps:
 
 And that's it! We strive to keep the contribution process as smooth as possible, but we're always looking for ways to improve it. Happy coding, and thank you for contributing to DeployDroid! 🚀💻
 
+Here's a graph diagram illustrating the DeployDroid web application, highlighting its components and interactions:
+
+![DeployDroid Web Application Diagram](diagram.png)
+
+- **User Interaction**: Users select software through a web interface.
+- **Web Application Structure**: Includes the Django backend for software organization and a PowerShell script generator for automating the installation process.
+- **External Components**: Utilizes Chocolatey for software installation.
+- **Cloud-Based Operation**: Illustrates the application's components as part of an online service accessible to users.
+
 ---
